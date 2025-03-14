@@ -1,0 +1,7 @@
+[
+    { "name": "Beans", "type": "Legume", "stock": 1000, "cost": 3000 , "link": "https://www.google.com/imgres?q=beans&imgurl=https%3A%2F%2Fifoodreal.com%2Fwp-content%2Fuploads%2F2018%2F02%2Ffg-how-to-cook-dried-beans.jpg&imgrefurl=https%3A%2F%2Fifoodreal.com%2Fhow-to-cook-dried-beans%2F&docid=NjYC49Vy9XAV1M&tbnid=wVT_nFV_Ujo4jM&vet=12ahUKEwjK87v0_f6LAxXv9AIHHfhgPA0QM3oECF4QAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjK87v0_f6LAxXv9AIHHfhgPA0QM3oECF4QAA"},
+
+    { "name": "Maize", "type": "Grain", "stock": 2000, "cost": 2500 },
+
+    { "name": "Soybeans", "type": "Legume", "stock": 1500, "cost": 3500 }
+]
